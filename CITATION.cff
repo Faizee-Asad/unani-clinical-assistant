@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Unani Clinical Assistant
+message: "If you use this project in teaching, research, or clinic documentation design, please cite it."
+type: software
+authors:
+  - name: Unani Clinical Assistant Contributors
+version: 0.2.0
+date-released: 2026-04-27
+license: MIT
+repository-code: "https://github.com/your-org/unani-clinical-assistant"
+abstract: "An open-source Unani clinical documentation and education skill with safety-first templates, red-flag awareness, and de-identification helpers."
+keywords:
+  - unani
+  - BUMS
+  - clinical documentation
+  - medical education
+  - patient safety
